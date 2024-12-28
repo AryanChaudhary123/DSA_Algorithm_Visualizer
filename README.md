@@ -49,5 +49,8 @@ OpenGL: For rendering graphical animations.
 
 Dear ImGui: To create an intuitive and interactive graphical user interface.
 
-# ScreenShot
+# ScreenShots
+
+![LinkedList_output_Screenshot](https://github.com/user-attachments/assets/e1d7a44a-7ac2-439d-90ac-2ec8e4f30643)
+
 
