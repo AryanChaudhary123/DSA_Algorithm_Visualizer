@@ -53,4 +53,11 @@ Dear ImGui: To create an intuitive and interactive graphical user interface.
 
 ![LinkedList_output_Screenshot](https://github.com/user-attachments/assets/e1d7a44a-7ac2-439d-90ac-2ec8e4f30643)
 
+![SortingAlgo_output_screenshot](https://github.com/user-attachments/assets/af98429a-0982-4a41-a19a-c79645d35ab1)
+
+![Queue_output_screenshot](https://github.com/user-attachments/assets/63e88789-9f1e-4124-9d1d-b0a94641cc36)
+
+![Stack_output_Screenshot](https://github.com/user-attachments/assets/127e7cf6-9092-48bc-a75f-f8758815a505)
+
+
 
