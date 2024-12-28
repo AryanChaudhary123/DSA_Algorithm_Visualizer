@@ -2,7 +2,8 @@
 
 An interactive tool for real-time visualization of sorting algorithms, linked lists, stacks, queues, and arrays. Built using C++, OpenGL, and Dear ImGui, this project aims to make learning data structures and algorithms easier and more engaging through intuitive animations and user interaction.
 
-Features
+# Features
+
 
 Data Structure Visualization
 
@@ -14,7 +15,8 @@ Stacks: Visualize push and pop operations with real-time updates.
 
 Queues: Animate enqueue and dequeue operations.
 
-Sorting Algorithms
+# Sorting Algorithms
+
 
 Step-by-step visualizations of sorting algorithms:
 
@@ -28,7 +30,8 @@ Quick Sort
 
 Merge Sort
 
-Interactive GUI
+# Interactive GUI
+
 
 Built with Dear ImGui for smooth and user-friendly controls.
 
@@ -38,7 +41,7 @@ Real-Time Feedback
 
 Immediate visualization of operations to enhance understanding.
 
-Technologies Used
+# Technologies Used
 
 C++: Core programming language for implementing the application logic.
 
@@ -46,4 +49,5 @@ OpenGL: For rendering graphical animations.
 
 Dear ImGui: To create an intuitive and interactive graphical user interface.
 
+# ScreenShot
 
